@@ -9,7 +9,8 @@
     }],
     "autoload": {
         "psr-4": {
-            "RandomQuotes\\": "src/"
+            "RandomQuote\\": "src/",
+            "UseCases\\": "development/"
         }
     },
     "require": {}
