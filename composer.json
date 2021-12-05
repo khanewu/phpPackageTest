@@ -3,16 +3,14 @@
     "description": "This library will generate a random quote for you.",
     "type": "library",
     "license": "MIT",
+    "authors": [{
+        "name": "Md. Mohiuddin Khan",
+        "email": "mohiuddin.ewu@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
-            "Khanewu\\RandomQuotes\\": "src/"
+            "RandomQuotes\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Md. Mohiuddin Khan",
-            "email": "mohiuddin.ewu@gmail.com"
-        }
-    ],
     "require": {}
 }
